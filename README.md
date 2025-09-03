@@ -8,6 +8,7 @@ Navigate to the dist/ folder in this repository.
 
 Download and Double-click ColdCompress.exe to launch the application like a regular desktop app.
 
+
 🚀 Features
 
 📂 Folder Selection & Validation – Choose a folder and validate its accessibility.
@@ -34,6 +35,7 @@ Libraries: zlib, tkinter, pathlib, threading, os, time
 Clone the repository:
 
 git clone https://github.com/Parthib17/Cold-Compress-A-Smart-File-Compression-and-Storage-Optimizer-for-Windows
+
 cd ColdCompress
 
 
